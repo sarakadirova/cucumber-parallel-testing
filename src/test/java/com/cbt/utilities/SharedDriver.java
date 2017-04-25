@@ -67,6 +67,7 @@ public class SharedDriver extends EventFiringWebDriver {
 		} catch (WebDriverException somePlatformsDontSupportScreenshots) {
 			System.err.println(somePlatformsDontSupportScreenshots.getMessage());
 		}
+		System.out.println("jgfjgfhgfhjfjfjhfgjfgf");
 	}
 
 }

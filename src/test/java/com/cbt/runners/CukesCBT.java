@@ -10,6 +10,6 @@ import cucumber.api.junit.Cucumber;
 		features="./src/test/resources/features/",
 		glue="com/cbt/stepdefs"
 		)
-public class CukesCBT {
+public class CukesCBT {//test
 
 }
